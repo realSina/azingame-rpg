@@ -85,13 +85,6 @@ Welcome to **Azin Game**, an immersive RPG experience with a wide array of featu
 
 ---
 
-## Support & Community
-
-- **Join the Azin Game Discord Server**: For updates, events, and to connect with the community, join our **Discord**.
-- **Customer Support**: If you encounter any issues, visit the **Support Center** in the game or reach out via our **website** for assistance.
-
----
-
 ## Contributors
 
 A huge thank you to all the developers, designers, and community members who have made *Azin Game* a reality. Your contributions have shaped this RPG mod into something truly special.
