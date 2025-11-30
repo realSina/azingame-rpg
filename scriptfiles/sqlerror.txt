@@ -1,4 +1,1 @@
 
-
-
-Error( 1062 ): Duplicate entry '94' for key 'PRIMARY', at: SendQuery, Query was be: UPDATE `users` SET pID='94' WHERE pName='jack'
